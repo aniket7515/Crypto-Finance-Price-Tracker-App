@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Crypto-Finance-Price-Tracker-App/static/css/main.6e85e633.css",
+    "main.js": "/Crypto-Finance-Price-Tracker-App/static/js/main.f540f587.js",
+    "static/js/787.50a093ae.chunk.js": "/Crypto-Finance-Price-Tracker-App/static/js/787.50a093ae.chunk.js",
+    "index.html": "/Crypto-Finance-Price-Tracker-App/index.html",
+    "main.6e85e633.css.map": "/Crypto-Finance-Price-Tracker-App/static/css/main.6e85e633.css.map",
+    "main.f540f587.js.map": "/Crypto-Finance-Price-Tracker-App/static/js/main.f540f587.js.map",
+    "787.50a093ae.chunk.js.map": "/Crypto-Finance-Price-Tracker-App/static/js/787.50a093ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e85e633.css",
+    "static/js/main.f540f587.js"
+  ]
+}
